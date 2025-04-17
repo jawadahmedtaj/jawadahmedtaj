@@ -14,8 +14,8 @@
 
 ## 📈 GitHub Stats
 
-![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadahmedtaj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmedtaj&layout=compact&theme=radical)
+![Jawad's GitHub stats](https://https://github-readme-stats-drab-two-12.vercel.app/api?username=jawadahmedtaj&show_icons=true&theme=radical)
+![Top Langs](https://https://github-readme-stats-drab-two-12.vercel.app/api/top-langs/?username=jawadahmedtaj&layout=compact&theme=radical)
 
 ## 🚀 About Me
 
